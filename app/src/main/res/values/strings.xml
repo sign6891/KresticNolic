@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KresticNolic</string>
+    <string name="playerX">ставь Х</string>
+    <string name="playerO">ставь O</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="_00"/>
+    <string name="_2" />
+    <string name="_3" />
+    <string name="_4" />
+    <string name="_5" />
+    <string name="_6" />
+    <string name="_7" />
+    <string name="_8" />
+    <string name="_9" />
+
+
+</resources>
